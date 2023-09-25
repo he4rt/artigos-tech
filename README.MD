@@ -71,7 +71,7 @@ Se você deseja contribuir com um artigo na Central de Artigos He4rt, siga este 
    - [Template para publicações simples](https://github.com/he4rt/artigos-tech/blob/main/templates/forum-post-simple.md), quer discutir sobre um tópico ou receber ideias.
    - [Template para artigos finalizados](https://github.com/he4rt/artigos-tech/blob/main/templates/forum-post-done.md), quer opinião sobre seu artigo que já esta finalizado, feedbacks, dicas, correções de ortografia.
    
-3. **Crie sua Publicação**: Cole o template copiado e, em seguida, inclua um título para o seu artigo e as informações solicitadas. 
+3. **Crie sua Publicação**: Cole o template copiado e, em seguida, inclua um título para a sua publicação e as informações solicitadas. 
 
 4. **Adicione Tags**: Utilize as tags disponíveis no Discord para categorizar o seu artigo. Certifique-se de incluir as tags relevantes que correspondem ao conteúdo do seu artigo. As tags ajudarão os leitores a encontrar facilmente o que estão procurando.
 (Caso não tenha a tag fique tranquilo que iremos incluir, seguindo as tags que você indicou na publicação).

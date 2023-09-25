@@ -69,7 +69,7 @@ Se você deseja contribuir com um artigo na Central de Artigos He4rt, siga este 
 
 2. **Escolha um template**: 
    - [Template para publicações simples](https://github.com/he4rt/artigos-tech/blob/main/templates/forum-post-simple.md), quer discutir sobre um tópico ou receber ideias.
-   - [Template para artigos prontos](https://github.com/he4rt/artigos-tech/blob/main/templates/forum-post-done.md), quer opinião sobre seu artigo, feedbacks, dicas, correções de ortografia.
+   - [Template para artigos finalizados](https://github.com/he4rt/artigos-tech/blob/main/templates/forum-post-done.md), quer opinião sobre seu artigo que já esta finalizado, feedbacks, dicas, correções de ortografia.
    
 3. **Crie sua Publicação**: Cole o template copiado e, em seguida, inclua um título para o seu artigo e as informações solicitadas. 
 

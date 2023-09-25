@@ -41,7 +41,3 @@ Todos são bem-vindos a contribuir com este repositório. Para fazer isso, basta
 2. Crie uma nova branch para sua contribuição.
 3. Faça suas alterações na branch criada.
 4. Envie um pull request com suas alterações.
-
-**Contato**
-
-Se você tiver alguma dúvida ou sugestão, por favor, entre em contato conosco.

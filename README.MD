@@ -93,4 +93,4 @@ Para qualquer sugestão ou ajuda entre em contato com nossos representantes.
 
 **Samuel Rodrigues** - [Twitter](https://twitter.com/samucadev)
 
-**Cherry** - [Twitter](https://twitter.com/samucadev)
+**Cherry** - [Twitter](https://twitter.com/cherry_ramatis)

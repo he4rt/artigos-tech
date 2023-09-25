@@ -41,3 +41,9 @@ Todos são bem-vindos a contribuir com este repositório. Para fazer isso, basta
 2. Crie uma nova branch para sua contribuição.
 3. Faça suas alterações na branch criada.
 4. Envie um pull request com suas alterações.
+
+**Representantes**
+Para qualquer sugestão ou ajuda entre em contato com nossos representantes.
+
+**Samuel Rodrigues** - [Twitter](https://twitter.com/samucadev)
+**Cherry** - [Twitter](https://twitter.com/samucadev)

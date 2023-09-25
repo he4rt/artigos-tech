@@ -17,7 +17,7 @@ Caso você tenha alguma ideia melhor de como fazer isso, ou sugestões de plataf
 
 A comunidade [He4rt Developers](https://dev.to/he4rt) tem exercido considerável influência sobre o algoritmo do [Dev.to.](https://dev.to) Isso oferece oportunidades valiosas para **promover nossos membros** e dar-lhes a **visibilidade que merecem**.
 
-No entanto, dada essa exposição, é crucial que estejamos **atentos** e cuidadosos com os **conteúdos** que representamos **nossa comunidade.**
+No entanto, dada essa exposição, é crucial que estejamos **atentos** e cuidadosos com os **conteúdos** que representam a **nossa comunidade.**
 
 ### Dicas, sugestões e avisos
 

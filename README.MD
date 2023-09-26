@@ -15,7 +15,7 @@ Caso você tenha alguma ideia melhor de como fazer isso, ou sugestões de plataf
 
 ### ThePracticalDev  (Dev.to)
 
-A comunidade [He4rt Developers](https://dev.to/he4rt) tem exercido considerável influência sobre o algoritmo do [Dev.to.](https://dev.to) Isso oferece oportunidades valiosas para **promover nossos membros** e dar-lhes a **visibilidade que merecem**.
+A comunidade <a href="https://dev.to/he4rt" target="_blank">He4rt Developers</a>. tem exercido considerável influência sobre o algoritmo do <a href="https://dev.to/" target="_blank">Dev.to</a> Isso oferece oportunidades valiosas para **promover nossos membros** e dar-lhes a **visibilidade que merecem**.
 
 No entanto, dada essa exposição, é crucial que estejamos **atentos** e cuidadosos com os **conteúdos** que representam a **nossa comunidade.**
 
@@ -28,7 +28,7 @@ Antes de qualquer coisa, vamos debater alguns pontos importantes pra uma criaç�
 * **Plágio é inadmissível:** Plágio é inadmissível e não será aceito. Lembrar sempre de dar os créditos caso inclua algum conteúdo de terceiro em seu artigo.
 * **Use tags corretamente:** Lembrar sempre de usar devidamente as tags para ter mais visibilidade dentro da plataforma. São elas que entregam seu artigo para todas as pessoas dentro do Dev.to.
 * **Participe da organização:** Caso queira levar a produção de artigos de uma forma mais constante, é possível participar da organização da he4rt no dev.to para conseguir mais divulgação.
-* **Não divulgue artigos durante a reunião geral:** Artigos ou links durante a reunião geral não serão divulgados.
+* **Não divulgue artigos durante a reunião geral:** Apenas a administração está autorizada a divulgar artigos ou links durante a reunião geral.
 
 ## Principais recursos 
 
@@ -65,7 +65,7 @@ Dito isso, para que você tenha o nosso apoio, é necessário que:
 
 Se você deseja contribuir com um artigo na Central de Artigos He4rt, siga este simples guia passo a passo:
 
-1. **Acesse o Fórum de Artigos**: Para começar, acesse o [Fórum de Artigos da He4rt](https://discord.com/channels/452926217558163456/1155162779951579327).
+1. **Acesse o Fórum de Artigos**: Para começar, acesse o <a href="https://discord.com/channels/452926217558163456/1155162779951579327" target="_blank">Fórum de Artigos da He4rt</a>.
 
 2. **Escolha um template**: 
    - [Template para publicações simples](https://github.com/he4rt/artigos-tech/blob/main/templates/forum-post-simple.md), quer discutir sobre um tópico ou receber ideias.
